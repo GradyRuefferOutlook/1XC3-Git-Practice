@@ -2,8 +2,6 @@
 
 int main()
 {
-    int a = 2;
-    int b = 3;
-    int c = 5;
-    printf("The sum of a, b, and c is: %d\n", a + b + c);
+    int a = 2, b = 3, c = 5, d = 7;
+    printf("The sum of a, b, c, and d is: %d\n", a + b + c + d);
 }
